@@ -1,8 +1,6 @@
 ### <div align="center">👋 Hey I'm Jason, welcome to my Github profile, you are visitor #<img src="https://komarev.com/ghpvc/?username=jasonlmfong&&style=flat-square" align="center" /></div>
 
-<p align="center">
-<img src="https://i.imgur.com/cklbrqQ.gif"/>
-<p>
+![alt text](https://i.imgur.com/cklbrqQ.gif)
 
 I studied pure math at the University of Toronto. Now I'm working at EY.
 
