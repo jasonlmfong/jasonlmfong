@@ -6,7 +6,7 @@ I studied pure math at the University of Toronto. Now I'm working at EY.
 
 - 🧠 Working on being a better developer
 
-- ☁️ Learning more about Go and Cloud
+- ☁️ Learning more about data and cloud
 
 - ❓ Talk to me about anything! Math, computer science, food, music...
 
