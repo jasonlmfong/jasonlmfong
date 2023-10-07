@@ -1,14 +1,12 @@
-### <div align="center">👋 Hey I'm Jason, welcome to my Github profile, you are visitor #<img src="https://komarev.com/ghpvc/?username=jasonlmfong&&style=flat-square" align="center" /></div>
+<base target="_blank">
+
+# 👋 Hey I'm Jason, you are visitor number <img src="https://komarev.com/ghpvc/?username=jasonlmfong&&style=flat-square" align="center" />
 
 ![alt text](https://i.imgur.com/cklbrqQ.gif)
 
-I studied pure math at the University of Toronto. Now I'm working at EY.
+- 👀 Learning more about HPC and geometry processing
 
-- 🧠 Working on being a better developer
-
-- ☁️ Learning more about data and cloud
-
-- ❓ Talk to me about anything! Math, computer science, food, music...
+- ❓ Talk to me about anything! Math, computer science, music, video games, food, ...
 
 
 ## Connect with me  
